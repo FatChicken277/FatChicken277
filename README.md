@@ -4,10 +4,9 @@ Full-Stack | Software engineer :robot:. (In progress)
 
 Holberton School Student. :man_technologist:
 
+<img align="right" width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=FatChicken277&show_icons=true">
 
 ## About me 
-
-<img align="right" width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=FatChicken277&show_icons=true">
 
 :heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
 
