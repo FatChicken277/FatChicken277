@@ -2,9 +2,8 @@
 <p align="center">Full-Stack | Software engineer :robot:. (In progress)</p>
 <p align="center">Holberton School Student. :man_technologist:</p>
 <h2 id="about-me" align="center">About me</h2>
-<p><img align="right" width="370" height="115" src="https://github-readme-stats.vercel.app/api?username=FatChicken277&hide=[%22issues%22,%22prs%22]&show_icons=true"></p>
-<p>:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming</p>
-<ul>
+<p align="center">:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming</p>
+<ul align="center">
 <li>:earth_americas: I&#39;m from Medellin - Colombia</li>
 <li>:video_game: I like to play video games</li>
 <li>:gem: I love to customize everything lol</li>
