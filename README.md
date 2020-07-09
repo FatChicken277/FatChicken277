@@ -1,5 +1,7 @@
 # Hi, I'm Alejandro :chicken:
 
+<img align="right" width="230" height="20%" src="https://i.pinimg.com/originals/4f/1c/59/4f1c59977e709e36b6cbec430d9b87dc.gif">
+
 Full-Stack | Software engineer :robot:. (In progress)
 
 Holberton School Student. :man_technologist:
