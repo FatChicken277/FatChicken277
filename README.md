@@ -4,9 +4,9 @@
 <h2 id="about-me" align="center">About me</h2>
 <p align="center">:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming</p>
 <ul align="center">
-<li>:earth_americas: I&#39;m from Medellin - Colombia</li>
-<li>:video_game: I like to play video games</li>
-<li>:gem: I love to customize everything lol</li>
+<p>:earth_americas: I&#39;m from Medellin - Colombia</li>
+<p>:video_game: I like to play video games</li>
+<p>:gem: I love to customize everything lol</li>
 </ul>
 <h2 id="social-media-mailbox_with_no_mail-" align="center">Social media :mailbox_with_no_mail:</h2>
 <p align="center"><a href="https://twitter.com/alejorc277"><img src="https://img.shields.io/twitter/url?color=%231DA1F2&amp;label=follow&amp;logo=twitter&amp;logoColor=%231DA1F2&amp;style=flat-square&amp;url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277" alt="Twitter URL"></a>
