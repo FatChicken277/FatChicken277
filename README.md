@@ -1,4 +1,4 @@
-<img align="right" width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=FatChicken277&show_icons=true">
+<img align="right" width="400" height="230" src="https://github-readme-stats.vercel.app/api?username=FatChicken277&show_icons=true">
 
 # Hi, I'm Alejandro :chicken:
 
