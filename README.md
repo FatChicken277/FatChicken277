@@ -1,5 +1,5 @@
 <h1 align="center"><a id="Hi_Im_Alejandro_chicken_0"></a>&nbsp;Hi, I’m Alejandro :wave:</h1>
-<p align="center">Full-Stack | Software engineer :robot:. (In progress)</p>
+<p align="center">Full-Stack Software Developer :robot:.</p>
 <p align="center">&nbsp;Holberton School Student. :man_technologist:</p>
 <h2 align="center"><a id="About_me_6"></a>About me :bust_in_silhouette:</h2>
 <p align="center">:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming</p>
