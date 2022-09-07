@@ -2,7 +2,7 @@
 <p align="center">Full-Stack Software Developer. :robot:</p>
 <p align="center">&nbsp;Holberton School Student. :man_technologist:</p>
 <h2 align="center"><a id="About_me_6"></a>About me :bust_in_silhouette:</h2>
-<p align="center">:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming</p>
+<p align="center">:heart: Drawing | :black_heart: Music | :blue_heart: Programming</p>
 <p align="center">
   <a>:earth_americas: I’m from Medellin - Colombia </a><br>
   <a>:video_game: I like to play video games </a><br>
