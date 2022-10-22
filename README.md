@@ -6,20 +6,22 @@
  |_|  \__,_|\__|\____|_| |_|_|\___|_|\_\___|_| |_|_____/_/   /_/    
                                                                     
 ```
+
 <br />
 
-[![Random Music](https://api.lorem.space/image/album?w=150&h=150)]()
+<img align="right" src="https://streak-stats.demolab.com?user=fatchicken277&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak">
 
-```
- About me 🐣
+<pre><code> About me 🐣
 
  - 👋 My name is Alejandro
- - 🤖 I'm Software Developer
- - 👷 I'm Devops trainee
+ - 🤖 I&#39;m Software Developer
+ - 👷 I&#39;m Devops trainee
  - 🌎 I’m from Medellin - Colombia 
  - 🕹️ I like to play video games 
  - 💎 I love to customize everything lol
-```
+</code></pre>
+
+
 <br />
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatchicken277&row=1&column=8&margin-w=20&theme=onedark&no-bg=false&no-frame=true" alt="trophy"></a></p>
