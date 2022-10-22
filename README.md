@@ -20,7 +20,7 @@
 <div align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=fatchicken277&row=1&column=8&margin-w=20&theme=onedark&no-bg=false&no-frame=true">
-<source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=fatchicken277&row=1&column=8&margin-w=20&theme=flat&no-bg=false&no-frame=false">
+<source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=fatchicken277&row=1&column=8&margin-w=20&theme=oldie&no-bg=false&no-frame=false">
 <img src="https://github-profile-trophy.vercel.app/?username=fatchicken277&row=1&column=8&margin-w=20&theme=juicyfresh&no-bg=true&no-frame=true" alt="trophy">
 </picture>
 </div>
