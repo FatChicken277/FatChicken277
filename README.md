@@ -9,8 +9,6 @@
 
 <br />
 
-<img align="right" src="https://streak-stats.demolab.com?user=fatchicken277&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak">
-
 <pre><code> About me 🐣
 
  - 👋 My name is Alejandro
@@ -21,10 +19,12 @@
  - 💎 I love to customize everything lol
 </code></pre>
 
-
 <br />
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatchicken277&row=1&column=8&margin-w=20&theme=onedark&no-bg=false&no-frame=true" alt="trophy"></a></p>
+<pre>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=fatchicken277&row=1&column=8&margin-w=10&theme=onedark&no-bg=true&no-frame=true" alt="trophy">
+  <code></code>
+</pre>
 
 <br />
 <hr>
