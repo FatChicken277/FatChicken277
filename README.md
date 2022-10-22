@@ -17,13 +17,13 @@
  - 💎 I love to customize everything lol
 </code></pre>
 
-<pre align="center">
+<div align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=fatchicken277&row=1&column=8&margin-w=10&theme=juicyfresh&no-bg=true&no-frame=true">
-<source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=fatchicken277&row=1&column=8&margin-w=10&theme=flat&no-bg=true&no-frame=true">
-<img src="https://github-profile-trophy.vercel.app/?username=fatchicken277&row=1&column=8&margin-w=10&theme=juicyfresh&no-bg=true&no-frame=true" alt="trophy">
+<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=fatchicken277&row=1&column=8&margin-w=20&theme=onedark&no-bg=false&no-frame=true">
+<source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=fatchicken277&row=1&column=8&margin-w=20&theme=flat&no-bg=false&no-frame=true">
+<img src="https://github-profile-trophy.vercel.app/?username=fatchicken277&row=1&column=8&margin-w=20&theme=juicyfresh&no-bg=true&no-frame=true" alt="trophy">
 </picture>
-</pre>
+</div>
 
 <hr>
 
