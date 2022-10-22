@@ -8,6 +8,10 @@
   <a>:video_game: I like to play video games </a><br>
   <a>:gem: I love to customize everything lol </a><br>
 </p>
+
+<h2 align="center"><a id="trophies"></a>Trophies :trophy:</h2>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatchicken277&row=1&margin-w=5&theme=juicyfresh&no-bg=true&no-frame=true" alt="trophy"></a></p>
+
 <h2 align="center"><a id="Social_media_mailbox_with_no_mail_15"></a>Social media :mailbox_with_no_mail:</h2>
 <p align="center">
   <a href="https://twitter.com/alejorc277"><img src="https://img.shields.io/twitter/url?color=%231DA1F2&amp;label=follow&amp;logo=twitter&amp;logoColor=%231DA1F2&amp;style=flat-square&amp;url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277" alt="Twitter URL"></a>
