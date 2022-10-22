@@ -18,7 +18,7 @@
 </code></pre>
 
 <pre align="center">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=fatchicken277&row=1&column=8&margin-w=10&theme=matrix&no-bg=true&no-frame=true" alt="trophy">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=fatchicken277&row=1&column=8&margin-w=10&theme=nord&no-bg=true&no-frame=true" alt="trophy">
 </pre>
 
 <hr>
