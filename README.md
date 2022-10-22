@@ -4,7 +4,7 @@
  | |_ / _` | __| |   | '_ \| |/ __| |/ / _ \ '_ \  __) | / /   / /  
  |  _| (_| | |_| |___| | | | | (__|   <  __/ | | |/ __/ / /   / /   
  |_|  \__,_|\__|\____|_| |_|_|\___|_|\_\___|_| |_|_____/_/   /_/    
-                                                                    
+ 
 ```
 
 <pre><code> About me 🐣
@@ -18,7 +18,7 @@
 </code></pre>
 
 <pre align="center">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=fatchicken277&row=1&column=8&margin-w=10&theme=onedark&no-bg=true&no-frame=true" alt="trophy">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=fatchicken277&row=1&column=8&margin-w=10&theme=matrix&no-bg=true&no-frame=true" alt="trophy">
 </pre>
 
 <hr>
