@@ -11,7 +11,7 @@
 
  - 👋 My name is Alejandro
  - 🤖 I&#39;m Software Developer
- - 👷 I&#39;m Devops trainee
+ - 👷 I&#39;m Devops Newbie
  - 🌎 I’m from Medellin - Colombia 
  - 🕹️ I like to play video games 
  - 💎 I love to customize everything lol
